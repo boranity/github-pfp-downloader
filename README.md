@@ -1,2 +1,5 @@
-# github-pfp-downloader
-Basic Github Profile Picture Downloader
+# Basic Github Profile Picture Downloader
+
+Install modules
+
+```pip3 install -r requirements.txt ```
